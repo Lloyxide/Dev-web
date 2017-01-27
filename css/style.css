@@ -14,3 +14,12 @@
   width : 500px;
   height : auto;
 }
+
+@media (max-width : 480px){
+
+  #imgCalais{
+    width : device-width-40;
+    height : auto;
+  }
+
+}
