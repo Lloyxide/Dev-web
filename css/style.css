@@ -17,6 +17,10 @@
 
 @media (max-width : 480px){
 
+  #premPar{
+    background-color: #FFFFFF;
+  }
+
   #imgCalais{
     width : 40;
     height : auto;
