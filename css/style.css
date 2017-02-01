@@ -56,6 +56,10 @@ th{
     font-size : 8vw;
   }
 
+  table{
+    width : 100%;
+  }
+
   td, th{
     border : none;
     display : block;
@@ -74,6 +78,10 @@ th{
     font-size : 8vw;
   }
 
+  table{
+    width : 100%;
+  }
+
   td, th{
     border : none;
     display : block;
@@ -90,6 +98,10 @@ th{
 
   h1{
     font-size : 8vw;
+  }
+
+  table{
+    width : 100%;
   }
 
   td, th{
