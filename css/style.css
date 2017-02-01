@@ -13,7 +13,7 @@ html{
 
 body{
   background-image: url("http://applicook.fr/iut/images/bg.jpg");
-  background-size : contain;
+  background-size : cover;
 }
 
 h1{
@@ -22,6 +22,7 @@ h1{
 
 p{
   font-size: 1.6rem;
+  text-align : justify;
 }
 
 #imgCalais{
