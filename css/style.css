@@ -27,3 +27,7 @@
   }
 
 }
+
+/*alias goGit='git add . | git commit -m "Page 1" | git push origin master'
+alias configGit='git config --global credential.helper cache | git config --global credential.helper 'cache --timeout=7200''
+'*/
